@@ -16,6 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Solta a ousadia mulek");
+        System.out.println("Tenta fazer outra ousadia tambem vei");
     }
     
 }
